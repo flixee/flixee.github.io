@@ -1,2 +1,4 @@
-# flixee.github.io
-Flixee website on github
+# Flixee
+Unofficial Netflix Desktop Player
+
+> Soon for Mac, Linux and Windows.
